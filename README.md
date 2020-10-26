@@ -8,6 +8,6 @@ To start the program, please, do the same steps in your console:
 3) main.py
 
 If you decided to download and extract it. For example, into D:/projects, then do this in your console:
-D:
-cd projects/algo_lab_1
-main.py
+1) D:
+2) cd projects/algo_lab_1
+3) main.py
