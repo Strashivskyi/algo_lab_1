@@ -1,5 +1,6 @@
 import csv_reader
-from Laptop import Laptop, heap_sort_by_CPU_speed_in_GHz_ascending, bubble_sort_by_amount_of_RAM_descending
+from Laptop import Laptop
+from sort_functions import bubble_sort_by_amount_of_RAM_descending, heap_sort_by_CPU_speed_in_GHz_ascending
 
 
 def main():
